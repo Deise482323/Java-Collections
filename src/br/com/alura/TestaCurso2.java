@@ -23,5 +23,9 @@ public class TestaCurso2 {
         System.out.println("-------------------------------------");
 
         System.out.println(javaColecoes.getTempoTotal());
+
+        System.out.println("-------------------------------------");
+
+        System.out.println(javaColecoes);
     }
 }
